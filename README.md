@@ -1,7 +1,7 @@
 ### Hello
 
-My name is Kaede.
-I 💙 Privacy.
+<p>My name is Kaede.</p>
+<p>I 💙 Privacy.</p>
 
 ### Links
 
