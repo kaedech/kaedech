@@ -1,3 +1,8 @@
+### Hello
+
+My name is Kaede.
+I 💙 Privacy.
+
 ### Links
 
 * [Home Page](https://kaede.ch/)
